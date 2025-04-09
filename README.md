@@ -1,16 +1,33 @@
-## Hi there 👋
+##  ¡Hola, mundo!
 
-<!--
-**Yoval128/Yoval128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado del desarrollo de software. Actualmente curso el **TSU en Desarrollo de Software** y trabajo en proyectos que me ayuden a ser mejor en lo que disfruto hacer cada dia.
+No soy perfecto, pero me esfuerzo al máximo para ser excelente en lo que más me apasiona
+---
 
-Here are some ideas to get you started:
+### Formación Profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Técnico en Programación
+- Actualmente cursando: TSU en Desarrollo de Software
+- Conocimientos en: 
+  - Desarrollo móvil con **React Native + Expo**
+  - Backend con **Node.js + Express**
+  - Bases de datos: **MongoDB** y **MySQL**
+  - Fundamentos de **C++**, **Java**, **HTML**, **Laravel**
+  - Entornos Linux: **Ubuntu** y **Debian**
+
+### Contacto
+
+-  Correo: [yovalaviles812@gmail.com](mailto:yovalaviles812@gmail.com)
+
+---
+
+### Tecnologías & Herramientas
+
+- Lenguajes: JavaScript, C++, Java, HTML, SQL
+- Frameworks/Librerías: React Native, Node.js, Express, Laravel
+- UI: NativeBase, Tailwind CSS, Expo Vector Icons
+- Otros: MongoDB, MySQL, ESP32, Arduino, Git, Linux (Debian/Ubuntu)
+
+---
+
+> “Creando soluciones que puedas usar desde el ordenador o tu telefono.”  
