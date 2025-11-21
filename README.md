@@ -1,6 +1,6 @@
 ##  ¡Hola, mundo!
 
-Soy un apasionado del desarrollo de software. Actualmente curso el **TSU en Desarrollo de Software** y trabajo en proyectos que me ayuden a ser mejor en lo que disfruto hacer cada dia.
+Soy un apasionado del desarrollo de software. Actualmente curso la **ING en Gestion Y Desarrollo de Software** y trabajo en proyectos que me ayuden a ser mejor en lo que disfruto hacer cada dia.
 No soy perfecto, pero me esfuerzo al máximo para ser excelente en lo que más me apasiona
 ---
 
