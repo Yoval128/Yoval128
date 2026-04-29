@@ -23,7 +23,6 @@ Actualmente curso la Ingeniería en Gestión y Desarrollo de Software y busco se
 - Java
 - C++
 - SQL
-- HTML
 
 **Frameworks & Librerías:**
 - React Native
