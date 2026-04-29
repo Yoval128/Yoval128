@@ -1,33 +1,66 @@
-##  ¡Hola, mundo!
+# 👋 ¡Hola, soy Omar!
 
-Soy un apasionado del desarrollo de software. Actualmente curso la **ING en Gestion Y Desarrollo de Software** y trabajo en proyectos que me ayuden a ser mejor en lo que disfruto hacer cada dia.
-No soy perfecto, pero me esfuerzo al máximo para ser excelente en lo que más me apasiona
----
+Soy desarrollador de software en formación, enfocado en el desarrollo **fullstack**. Me interesa crear soluciones prácticas que funcionen tanto en web como en móvil.
 
-### Formación Profesional
-
-- Técnico en Programación
-- Actualmente cursando: TSU en Desarrollo de Software
-- Conocimientos en: 
-  - Desarrollo móvil con **React Native + Expo**
-  - Backend con **Node.js + Express**
-  - Bases de datos: **MongoDB** y **MySQL**
-  - Fundamentos de **C++**, **Java**, **HTML**, **Laravel**
-  - Entornos Linux: **Ubuntu** y **Debian**
-
-### Contacto
-
--  Correo: [yovalaviles812@gmail.com](mailto:yovalaviles812@gmail.com)
+Actualmente curso la Ingeniería en Gestión y Desarrollo de Software y busco seguir creciendo a través de proyectos reales y aprendizaje continuo.
 
 ---
 
-### Tecnologías & Herramientas
+## 🚀 Sobre mí
 
-- Lenguajes: JavaScript, C++, Java, HTML, SQL
-- Frameworks/Librerías: React Native, Node.js, Express, Laravel
-- UI: NativeBase, Tailwind CSS, Expo Vector Icons
-- Otros: MongoDB, MySQL, ESP32, Arduino, Git, Linux (Debian/Ubuntu)
+- 💻 Enfocado en desarrollo **Fullstack**
+- 📱 Experiencia en desarrollo móvil con **React Native + Expo**
+- ⚙️ Backend con **Node.js + Express**
+- 🗄️ Manejo de bases de datos **MongoDB y MySQL**
+- 🐧 Experiencia trabajando en entornos Linux (Ubuntu / Debian)
 
 ---
 
-> “Creando soluciones que puedas usar desde el ordenador o tu telefono.”  
+## 🧠 Tecnologías
+
+**Lenguajes:**
+- JavaScript
+- Java
+- C++
+- SQL
+- HTML
+
+**Frameworks & Librerías:**
+- React Native
+- React Js
+- Node.js
+- Express
+- Laravel
+
+**UI & Estilos:**
+- Tailwind CSS
+- NativeBase
+- Expo Vector Icons
+
+**Herramientas & Otros:**
+- Git & GitHub
+- MongoDB
+- MySQL
+- Linux (Ubuntu / Debian)
+
+---
+
+## 🎓 Formación
+
+- 🎓 Técnico en Programación
+- 🎓 TSU en Desarrollo de Software
+- 🎓 ING en Gestión y Desarrollo de Software (en curso)
+
+---
+
+## 📫 Contacto
+
+- ✉️ Correo: yovalaviles812@gmail.com
+- 💼 GitHub: https://github.com/Yoval128
+- 🔗 LinkedIn: https://www.linkedin.com/in/yoval128/
+
+---
+
+## 💡 Frase
+
+> “Construyendo soluciones que funcionan en web y móvil.”
