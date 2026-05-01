@@ -55,7 +55,7 @@ Actualmente curso la Ingeniería en Gestión y Desarrollo de Software y busco se
 ## 📫 Contacto
 
 - ✉️ Correo: yovalaviles812@gmail.com
-- 💼 GitHub: https://github.com/Yoval128
+- 🌐 Web: https://yoval-dev.vercel.app/
 - 🔗 LinkedIn: https://www.linkedin.com/in/yoval128/
 
 ---
